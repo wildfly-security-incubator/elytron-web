@@ -71,6 +71,7 @@
     </properties>
 
     <modules>
+        <module>jetty</module>
         <module>undertow</module>
         <module>undertow-servlet</module>
     </modules>
